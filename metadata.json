@@ -1,0 +1,5 @@
+{
+  "name": "Quran AI",
+  "description": "Aplikasi Al-Quran lengkap dengan terjemahan bahasa Indonesia, Latin, dan AI Consultant (Voice/Chat).",
+  "requestFramePermissions": ["microphone"]
+}
